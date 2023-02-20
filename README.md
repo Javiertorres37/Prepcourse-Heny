@@ -1,2 +1,1 @@
-# Prepcourse-Heny
-Este es un repositorio de prueba del modulo 2 del Prepcourse Henry
+Est proyecto es una prueba de saber como crear un repositorio y clonarlo a mi comutadora
